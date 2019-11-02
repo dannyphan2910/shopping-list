@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="create_prompt_primary">Create a shopping item</string>
+    <string name="create_prompt_secondary">Enter any item you wish to consider buying</string>
+    <string name="welcome_text">Welcome to MyShoppingCart</string>
+    <string name="dialog_name_hint">Name of item</string>
+    <string name="dialog_amount_hint">Amount</string>
+    <string name="dialog_price_hint">Price (in $)</string>
+    <string name="dialog_notes_hint">Notes (optional)</string>
+    <string name="row_category_default">Category</string>
+    <string name="row_name_default">123243</string>
+    <string name="row_checkbox_default">Purchased?</string>
+    <string name="row_amount_default">Amount: 12</string>
+    <string name="row_btnEdit">Edit</string>
+    <string name="row_btnDelete">Delete</string>
+    <string name="row_description_default">some text here</string>
+    <string name="dialog_add_item_title">ADD A SHOPPING ITEM</string>
+    <string name="dialog_edit_item_title">EDIT SHOPPING ITEM</string>
+
+    <string name="toast_category">%1$s was selected</string>
+
+    <string-array name="categories">
+        <item></item>
+        <item>FOOD - Beverages</item>
+        <item>FOOD - Canned Goods</item>
+        <item>FOOD - Dairy</item>
+        <item>FOOD - Dry/Baking Goods</item>
+        <item>FOOD - Frozen Foods</item>
+        <item>FOOD - Meat</item>
+        <item>FOOD - Vegetables/Fruits</item>
+        <item>HOUSEHOLD - Cleaners</item>
+        <item>HOUSEHOLD - Paper Goods</item>
+        <item>HOUSEHOLD - Personal Care</item>
+        <item>ELECTRONICS</item>
+        <item>CLOTHING</item>
+        <item>OTHER</item>
+    </string-array>
+</resources>

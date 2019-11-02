@@ -1,0 +1,12 @@
+package hu.ait.shoppinglist.data
+
+object Category {
+    val CATEGORY_HOME = "HOME"
+    val CATEGORY_FOOD = "FOOD"
+    val CATEGORY_HOUSEHOLD = "HOUSEHOLD"
+    val CATEGORY_CLOTHING = "CLOTHING"
+    val CATEGORY_ELECTRONICS = "ELECTRONICS"
+    val CATEGORY_OTHER = "OTHER"
+    val CATEGORY_PURCHASED = "PURCHASED"
+    val CATEGORY_NOT_PURCHASED = "NOT PURCHASED"
+}
